@@ -28,3 +28,5 @@ jobs:
 
       - name: Test
         run: make test
+
+      - uses: hexlet-components/hello-from-hexlet-action@release
